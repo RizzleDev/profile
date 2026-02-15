@@ -58,6 +58,16 @@
 
 ---
 
+
+---
+## 🚀 Tech Confidence
+
+Discord.js      ▰▰▰▰▰▰▰▰▰▰ 100%  
+TypeScript      ▰▰▰▰▰▱▱▱▱▱ 50%  
+JavaScript      ▰▰▰▰▰▰▰▰▰▱ 90%  
+Vite            ▰▰▰▰▰▰▰▱▱▱ 70%
+---
+
 ## 📫 Connect With Me
 
 - Discord: rizzledev
