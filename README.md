@@ -1,3 +1,9 @@
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+
+
 # Hi, I'm [Rizzledev] 👋
 
 🚀 JavaScript / TypeScript Developer  
